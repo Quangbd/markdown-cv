@@ -1,9 +1,8 @@
 ---
 layout: cv
-title: David Whipp's CV
+title: quangbd's CV
 ---
-# David Whipp
-Professor, University of Helsinki
+# Bui Duc Quang
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
 P.O. Box 68 (Pietari Kalmin katu 5)<br/>
