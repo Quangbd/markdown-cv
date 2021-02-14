@@ -5,7 +5,7 @@ title: quangbd's CV
 # Bui Duc Quang
 
 <div id="webaddress">
-  <a href="quangbd.hust@gmail.com"><i class="fas fa-home">quangbd.hust@gmail.com</a>
+  <a href="quangbd.hust@gmail.com"><i class="fas fa-home"></i> quangbd.hust@gmail.com</a>
 </div>
 
 ## Education
